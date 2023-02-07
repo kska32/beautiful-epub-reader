@@ -140,13 +140,13 @@ h3.install-edge::before{
 }
 
 h3.install-chrome::before{
-    background: transparent url('/imgs/chrome.png') no-repeat center;
+    background: transparent url('./imgs/chrome.png') no-repeat center;
     background-size: contain;
 
 }
 
 h3.install-edge::before{
-    background: transparent url('/imgs/edge.png') no-repeat center;
+    background: transparent url('./imgs/edge.png') no-repeat center;
     background-size: contain;
 }
 
